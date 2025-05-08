@@ -1,8 +1,11 @@
 ## Hi there 👋
-<p align="center">
-  <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com?font=Titan+One&size=30&duration=2000&pause=1000&width=435&lines=civil+engineer+in+computer+science;Ingeniero+civil+en+informatica"></a>
-</p>
-
+<div align="center">
+  <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
+  <p align="center">
+    <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com?font=Titan+One&size=30&duration=2000&pause=1000&width=435&lines=civil+engineer+in+computer+science;Ingeniero+civil+en+informatica"></a>
+  </p>
+ </div>
+  
 <!--
 **KiivYx/KiivYx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
