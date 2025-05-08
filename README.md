@@ -4,7 +4,39 @@
   <p align="center">
     <a href="https://github.com/fairyland0926"><img src="https://readme-typing-svg.herokuapp.com?font=Titan+One&size=30&duration=2000&pause=1000&width=435&lines=civil+engineer+in+computer+science;Ingeniero+civil+en+informatica"></a>
   </p>
- </div>
+
+  
+  <p align="center">
+    <b>
+      👨‍💻 I am a tech enthusiast who enjoys the world of programming and continuous learning.<br>
+      🌐 I am currently focused on Full Stack Web Development, exploring both front-end and back-end technologies to build powerful and intuitive web applications.<br>
+      📊 In addition, I have a growing interest in the world of data, including data analysis, data visualization, and Machine Learning.<br>
+      🚀 My goal is to keep learning and building solutions that combine clean code, creative design, and intelligent data processing.
+    </b>
+    <br><br>
+    <i>
+      👨‍💻 Soy un entusiasta de la tecnología que disfruta del mundo de la programación y el aprendizaje continuo.<br>
+      🌐 Actualmente me enfoco en el desarrollo web Full Stack, explorando tanto tecnologías del front-end como del back-end para crear aplicaciones web potentes e intuitivas.<br>
+      📊 Además, tengo un interés creciente en el mundo de los datos, incluyendo análisis de datos, visualización y aprendizaje automático.<br>
+      🚀 Mi objetivo es seguir aprendiendo y construyendo soluciones que combinen código limpio, diseño creativo y procesamiento inteligente de datos.
+    </i>
+  </p>
+
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
+
+  ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+  💻 Languages / Lenguajes
+  <p align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/> <img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/> </p>
+  ⚙️ Frameworks & Libraries / Frameworks y Librerías
+  <p align="center"> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> </p>
+  🗄️ Databases / Bases de Datos
+  <p align="center"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
+  🎮 Tools & Engines / Herramientas y Motores
+  <p align="center"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> </p>
+
+</div>
+
   
 <!--
 **KiivYx/KiivYx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
