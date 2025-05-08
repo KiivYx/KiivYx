@@ -36,14 +36,18 @@
       <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
       <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
       <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Jupyter-FF2B22?style=for-the-badge&logo=jupyter&logoColor=white"/> <!-- Jupyter Notebook -->
+      <img src="https://img.shields.io/badge/Jupyter-FF2B22?style=for-the-badge&logo=jupyter&logoColor=white"/>
+      <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   </p>
   ⚙️ Frameworks & Libraries / Frameworks y Librerías
   <p align="center"> 
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/> 
-  
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+    <img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcn&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Lucide-FFFFFF?style=for-the-badge&logo=lucide&logoColor=black"/>
+
   </p>
   🗄️ Databases / Bases de Datos
   <p align="center"> 
@@ -54,10 +58,16 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </p>
+  
+  ## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXFicGw2aTFqNW1janZxNzI4ZWowaTQ2NXNrNW0yNWh3dXdtZng0diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmBl8pvjfyYUszw1TS/giphy.gif" width ="25"><b> Stats</b>
 
+
+  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=KiivYx&theme=radical&show_icons=true&hide_border=true&count_private=false" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiivYx&theme=radical&show_icons=true&hide_border=true&layout=compact" height="150"/>
+  </div>
 </div>
 
   
