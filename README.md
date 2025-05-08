@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi im KiivYX 👋
 <div align="center">
   <img alt="Hola" height="70px" width="70px" align="center" src="https://c.tenor.com/fYg91qBpDdgAAAAi/bongo-cat-transparent.gif"></img><br>
   <p align="center">
@@ -68,6 +68,18 @@
     <img src="https://github-readme-stats.vercel.app/api?username=KiivYx&theme=radical&show_icons=true&hide_border=true&count_private=false" height="150"/>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiivYx&theme=radical&show_icons=true&hide_border=true&layout=compact" height="150"/>
   </div>
+
+  ## 🌐 Connect with me / Conecta conmigo
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/aaron-cornejo-illanes-206a54229/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="https://www.instagram.com/kiivyx/" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+  </p>
+
 </div>
 
   
