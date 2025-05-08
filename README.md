@@ -33,7 +33,17 @@
   🗄️ Databases / Bases de Datos
   <p align="center"> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/> </p>
   🎮 Tools & Engines / Herramientas y Motores
-  <p align="center"> <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/> </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Google-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  </p>
+## 🚀 Featured Projects / Proyectos Destacados
+
+- 🔗 [**MyPortfolio**](https://github.com/tuusuario/portfolio): Web personal hecha con Next.js y Tailwind CSS.
+- 🤖 [**ML-Predictor**](https://github.com/tuusuario/ml-predictor): Modelo de machine learning para predicción de datos con scikit-learn.
+- 🎮 [**InfernoGame**](https://github.com/tuusuario/inferno-game): Videojuego en Unity basado en los círculos del Infierno.
 
 </div>
 
